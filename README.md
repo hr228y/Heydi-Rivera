@@ -42,6 +42,26 @@
     <h2>Resume</h2>
     <a href="path/to/resume.pdf" download>Download my resume</a>
   </section>
+## 🤖 Chatbot Feature
+
+This portfolio includes a simple chatbot that responds to questions about my skills, experience, and projects.
+
+**🔧 Built With:**  
+- JavaScript + [BotUI](https://botui.org/) (or replace with Dialogflow if you used it)
+- Code is in `chatbot.js`
+
+**📍 Location on site:**  
+Appears on the homepage and other sections for interactive Q&A.
+
+**🔗 Live Site:**  
+[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+<div class="chatbot-container" id="chatbot">
+  <div class="chat-header">Chat with Me!</div>
+  <div class="chat-box" id="chat-box"></div>
+  <input type="text" id="user-input" placeholder="Ask something..." />
+  <button onclick="sendMessage()">Send</button>
+</div>
+
 
   <section id="contact">
     <h2>Contact Me</h2>
