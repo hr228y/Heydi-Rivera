@@ -40,8 +40,10 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <a href="path/to/resume.pdf" download>Download my resume</a>
+    <a href="path/to/Heydi Rivera.pdf" download>Download my resume</a>
   </section>
+
+  
 ## 🤖 Chatbot Feature
 
 This portfolio includes a simple chatbot that responds to questions about my skills, experience, and projects.
