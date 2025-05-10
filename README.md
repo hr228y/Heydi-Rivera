@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Portfolio</title>
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Heydi Rivera</h1>
     <nav>
       <ul>
         <li><a href="#home">Home</a></li>
@@ -54,13 +54,6 @@
     </form>
   </section>
 
-  <footer>
-    <p>&copy; 2025 Your Name</p>
-  </footer>
+ 
 
-  <script src="chatbot.js"></script>
-</body>
-</html>
-<script src="https://cdn.botui.org/botui.min.js"></script>
-<link rel="stylesheet" href="https://cdn.botui.org/botui.min.css">
 
