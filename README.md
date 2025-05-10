@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+ 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -27,7 +27,14 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Your skills, experiences, and educational background.</p>
+    <div class="about-container">
+      <div class="about-text">
+        <p><strong>Motivated and detail-oriented Computer Technology graduate</strong> with 11 years of customer service and team leadership experience at AT&T. Skilled in communication, problem-solving, and technical support, with a passion for transitioning into cybersecurity and leveraging analytical skills to protect digital assets. Known for driving results, mentoring teams, and quickly adapting to new technologies.</p>
+      </div>
+      <div class="about-image">
+        <img src="your-photo.jpg" alt="Heydi Rivera" />
+      </div>
+    </div>
   </section>
 
   <section id="projects">
@@ -39,43 +46,13 @@
   </section>
 
   <section id="resume">
-  <h2>Resume</h2>
- <a href="Heydi-Rivera.pdf" download>Download my resume</a>
-</section>
-
-  
-## 🤖 Chatbot Feature
-
-This portfolio includes a simple chatbot that responds to questions about my skills, experience, and projects.
-
-**🔧 Built With:**  
-- JavaScript + [BotUI](https://botui.org/) (or replace with Dialogflow if you used it)
-- Code is in `chatbot.js`
-
-**📍 Location on site:**  
-Appears on the homepage and other sections for interactive Q&A.
-
-**🔗 Live Site:**  
-[https://hr228y.github.io/portfolio](https://hr228y.github.io/portfolio)
-<div class="chatbot-container" id="chatbot">
-  <div class="chat-header">Chat with Me!</div>
-  <div class="chat-box" id="chat-box"></div>
-  <input type="text" id="user-input" placeholder="Ask something..." />
-  <button onclick="sendMessage()">Send</button>
-</div>
-
+    <h2>Resume</h2>
+    <a href="Heydi-Rivera.pdf" download>Download my resume</a>
+  </section>
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <form>
-      <label for="name">Your Name</label>
-      <input type="text" id="name" name="name" required>
-      <label for="message">Your Message</label>
-      <textarea id="message" name="message" required></textarea>
-      <button type="submit">Send</button>
-    </form>
-  </section>
+  
 
- 
 
 
