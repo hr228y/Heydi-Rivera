@@ -56,7 +56,7 @@ This portfolio includes a simple chatbot that responds to questions about my ski
 Appears on the homepage and other sections for interactive Q&A.
 
 **🔗 Live Site:**  
-[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+[https://yourusername.github.io/portfolio](https://hr228y.github.io/portfolio)
 <div class="chatbot-container" id="chatbot">
   <div class="chat-header">Chat with Me!</div>
   <div class="chat-box" id="chat-box"></div>
