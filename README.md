@@ -50,6 +50,19 @@
     <a href="Heydi-Rivera.pdf" download>Download my resume</a>
   </section>
 
+<section id="chatbot-info">
+  <h2>🤖 Chatbot Feature</h2>
+  <p>This portfolio includes a simple chatbot that responds to questions about my skills, experience, and projects.</p>
+
+  <p><strong>🔧 Built With:</strong><br>
+  JavaScript + <a href="https://botui.org/" target="_blank">BotUI</a> (or Dialogflow)</p>
+
+  <p><strong>📍 Location on site:</strong><br>
+  Appears on the homepage and other sections for interactive Q&A.</p>
+
+  <p><strong>🔗 Live Site:</strong><br>
+  <a href="https://hr228y.github.io/portfolio" target="_blank">https://hr228y.github.io/portfolio</a></p>
+</section>
   <section id="contact">
     <h2>Contact Me</h2>
   
