@@ -65,7 +65,14 @@
 </section>
   <section id="contact">
     <h2>Contact Me</h2>
-  
+  # Heydi Rivera - Portfolio
+
+Welcome to my personal portfolio! Below is a QR code you can scan to easily visit my portfolio:
+
+![QR Code](https://github.com/yourusername/portfolio/raw/main/portfolio_qr.png)
+
+You can also visit my portfolio by clicking the link: [Portfolio](https://yourusername.github.io/portfolio)
+
 
 
 
