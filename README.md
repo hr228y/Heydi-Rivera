@@ -40,7 +40,7 @@
 
   <section id="resume">
   <h2>Resume</h2>
-  <a href="path/to/Heydi Rivera.pdf" download>Download my resume</a>
+ <a href="Heydi-Rivera.pdf" download>Download my resume</a>
 </section>
 
   
